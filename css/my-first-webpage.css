@@ -1,0 +1,24 @@
+html{
+  font-family:'Trebuchet MS';
+}
+
+h1 {
+  font-family: fantasy;
+  color: #ff0000;
+  font-size: 100px;
+}
+
+strong {
+  font-style: italic;
+  color: #612413;
+}
+
+h2 {
+  font-family: Courier;
+  text-align: right;
+}
+
+li {
+  font-weight: bold;
+  line-height: 18px;
+}
